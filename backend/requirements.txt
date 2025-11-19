@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-numpy
-numpy-stl
-scipy
-pydantic
-python-multipart
-websockets
